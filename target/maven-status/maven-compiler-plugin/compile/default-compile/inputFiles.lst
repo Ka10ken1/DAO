@@ -1,0 +1,11 @@
+/home/mate/IdeaProjects/dao/src/main/java/com/epam/rd/autocode/domain/Employee.java
+/home/mate/IdeaProjects/dao/src/main/java/com/epam/rd/autocode/dao/DepartmentDaoImpl.java
+/home/mate/IdeaProjects/dao/src/main/java/com/epam/rd/autocode/dao/EmployeeDao.java
+/home/mate/IdeaProjects/dao/src/main/java/com/epam/rd/autocode/domain/FullName.java
+/home/mate/IdeaProjects/dao/src/main/java/com/epam/rd/autocode/ConnectionSource.java
+/home/mate/IdeaProjects/dao/src/main/java/com/epam/rd/autocode/domain/Department.java
+/home/mate/IdeaProjects/dao/src/main/java/com/epam/rd/autocode/dao/Dao.java
+/home/mate/IdeaProjects/dao/src/main/java/com/epam/rd/autocode/dao/EmployeeDaoImpl.java
+/home/mate/IdeaProjects/dao/src/main/java/com/epam/rd/autocode/dao/DaoFactory.java
+/home/mate/IdeaProjects/dao/src/main/java/com/epam/rd/autocode/domain/Position.java
+/home/mate/IdeaProjects/dao/src/main/java/com/epam/rd/autocode/dao/DepartmentDao.java
